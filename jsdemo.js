@@ -8,5 +8,5 @@ let school = "Julius L. Chambers";
 let grade = "11th";
 
 document.getElementById("name").innerHTML = "Name: <b>" + name + "</b>";
-document.getElementById("name").innerHTML = "Grade: <b>" + grade + "</b>";
-document.getElementById("name").innerHTML = "School: <b>" + school + "</b>";
+document.getElementById("grade").innerHTML = "Grade: <b>" + grade + "</b>";
+document.getElementById("school").innerHTML = "School: <b>" + school + "</b>";
